@@ -1,1 +1,1 @@
-Simple algebra test made on C++ using SFML library
+Algebra test made on C++ using SFML library
