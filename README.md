@@ -18,6 +18,6 @@ Or to compile this project on your own you should:
    Edit and put the directory to "lib" folder which is located in your project folder and apply.
    
 6. In project properties in Linker -> Input -> Additional Dependencies:               
-   Edit and paste there the .lib files which is located in "Libs.txt" in your project folder and apply.
+   Edit and paste there the .lib files which is located in "libs.txt" in your project folder and apply.
    
    That's all
