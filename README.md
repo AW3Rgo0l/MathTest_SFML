@@ -1,6 +1,6 @@
 Algebra test made on C++ using SFML library
 
-To try this application you should download this repository and in folder "Release"(not in "smfl" folder) launch .exe file.
+To try this application you should download this repository, unzip, and in folder "Release"(not in "smfl" folder) launch .exe file.
 
 ----------------------------------------------------
 Or to compile this project on your own you should:
