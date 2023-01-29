@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\123\source\repos\sfml\sfml\test.hpp(113): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\123\source\repos\sfml\sfml\test.hpp(117): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\123\source\repos\sfml\sfml\test.hpp(125): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\123\source\repos\sfml\sfml\test.hpp(129): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\123\source\repos\sfml\sfml\test.hpp(137): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  1 of 110 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sfml.vcxproj -> C:\Users\123\source\repos\sfml\Release\sfml.exe
